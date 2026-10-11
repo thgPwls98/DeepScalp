@@ -1,0 +1,18 @@
+oracleJdk-27/
+# Local configuration
+local.properties
+
+# Build artifacts & caches
+.gradle/
+build/
+/captures
+.externalNativeBuild
+.cxx
+
+# IDE & Editor files
+.idea/
+*.iml
+.DS_Store
+
+# Large AI/ML Model files
+*.tflite

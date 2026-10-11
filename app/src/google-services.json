@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1091421617128",
+    "firebase_url": "https://deepscalp-a6e79-default-rtdb.firebaseio.com",
+    "project_id": "deepscalp-a6e79",
+    "storage_bucket": "deepscalp-a6e79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091421617128:android:52c58e6d03f8f78322025d",
+        "android_client_info": {
+          "package_name": "com.example.Deepscalp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYdmYChu9lgQSOvXX6_v1c8giCdwq063g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091421617128:android:92d6ee95a6e6e7f122025d",
+        "android_client_info": {
+          "package_name": "com.example.deepscalp_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYdmYChu9lgQSOvXX6_v1c8giCdwq063g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

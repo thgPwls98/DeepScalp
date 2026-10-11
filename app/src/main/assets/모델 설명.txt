@@ -1,0 +1,6 @@
+모델1 = 탈모(Baldness)
+모델2 = 비듬(Dandruff)
+모델3 = 모낭사이홍반(Folliculitis Abscess)
+모델4 = Folliculitis
+모델5 = 미세각질(Microcorn)
+모델6 = 피지과다(Seborrheic Dermatitis)
